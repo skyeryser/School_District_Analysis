@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 ## Discoveries:
 1. The charter schools represented in the data have higher reading and math scores than public schools. 
 2. The test score difference between public and charter schools is relatively small for reading scores, but the average charter school math score is four points above that of public schools.
